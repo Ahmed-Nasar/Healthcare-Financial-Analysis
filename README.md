@@ -30,7 +30,7 @@ This project analyzes the financial performance of a healthcare center, focusing
 
 - **`Total Billing Amount`:** £3.36M
 - **`Total Medication Cost`:** £546.04K
-- **`Total Treatement Cost`:** £2.63M
+- **`Total Treatment Cost`:** £2.63M
 - **`Total Insurance`:** £2.23M
 - **`Top Billing Procedure`:** X-Ray (£1.05M)
 - **`Top Diagnosis by Billing`:** Hypertension (39.58%)
