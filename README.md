@@ -1,6 +1,6 @@
 # Healthcare Data Analysis using SQL and Power BI
 
-**Dashboard ->** [here](https://app.powerbi.com/view?r=eyJrIjoiNDgyMDdhOTQtODRhZi00OTU4LThhNmItMTkxYmVlMGJjMDFkIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)
+[![Open In Power Bi](https://img.shields.io/badge/open_in_power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNDgyMDdhOTQtODRhZi00OTU4LThhNmItMTkxYmVlMGJjMDFkIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)
 
 | Contents 											 	   	|
 | -------- 											 	   	|
